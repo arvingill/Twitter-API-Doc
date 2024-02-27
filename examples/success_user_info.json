@@ -1,0 +1,116 @@
+{
+  "code": 0,
+  "credits": 0.003,
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {
+            "label": {
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_bigger.jpg"
+              },
+              "description": "X",
+              "url": {
+                "url": "https://twitter.com/X",
+                "urlType": "DeepLink"
+              },
+              "userLabelDisplayType": "Badge",
+              "userLabelType": "BusinessLabel"
+            }
+          },
+          "business_account": {},
+          "has_graduated_access": true,
+          "has_nft_avatar": false,
+          "id": "VXNlcjo0NDE5NjM5Nw==",
+          "is_blue_verified": true,
+          "is_profile_translatable": false,
+          "legacy": {
+            "blocked_by": false,
+            "blocking": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 43699,
+            "follow_request_sent": false,
+            "followed_by": false,
+            "followers_count": 173931681,
+            "following": false,
+            "friends_count": 544,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 148850,
+            "location": "",
+            "media_count": 2032,
+            "muting": false,
+            "name": "Elon Musk",
+            "normal_followers_count": 173931681,
+            "notifications": false,
+            "pinned_tweet_ids_str": [
+              "1762002982684721190"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1683325380441128960/yRsRRjGO_normal.jpg",
+            "profile_interstitial_type": "",
+            "protected": false,
+            "screen_name": "elonmusk",
+            "statuses_count": 38731,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "legacy_extended_profile": {},
+          "professional": {
+            "category": [],
+            "professional_type": "Creator",
+            "rest_id": "1679729435447275522"
+          },
+          "rest_id": "44196397",
+          "smart_blocked_by": false,
+          "smart_blocking": false,
+          "super_follow_eligible": true,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification_info": {
+            "reason": {
+              "description": {
+                "entities": [
+                  {
+                    "from_index": 54,
+                    "ref": {
+                      "url": "https://twitter.com/X",
+                      "url_type": "ExternalUrl"
+                    },
+                    "to_index": 56
+                  },
+                  {
+                    "from_index": 63,
+                    "ref": {
+                      "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
+                      "url_type": "ExternalUrl"
+                    },
+                    "to_index": 73
+                  }
+                ],
+                "text": "This account is verified because it's an affiliate of @X on X. Learn more"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/x(twitter)-scraping-api-fd2a"
+}

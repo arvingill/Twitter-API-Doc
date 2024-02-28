@@ -8,42 +8,42 @@
 
 ### 用户信息
 
-[Success Response](./examples/success_user_info.json)
+[成功返回样例](./examples/success_user_info.json)
 
 
 ### 用户发布的作品列表
 
-[Success Response](./examples/success_user_tweets.json)
+[成功返回样例](./examples/success_user_tweets.json)
 
 
 ### 单个作品详情以及回复
 
-[Success Response](./examples/success_tweet_detail.json)
+[成功返回样例](./examples/success_tweet_detail.json)
 
 
 ### 推特的转发列表
 
-[Success Response](./examples/success_tweet_retweeters.json)
+[成功返回样例](./examples/success_tweet_retweeters.json)
 
 
 ### 推特的点赞列表
 
-[Success Response](./examples/success_tweet_favoriters.json)
+[成功返回样例](./examples/success_tweet_favoriters.json)
 
 
 ### 搜索关键词
 
-[Success Response](./examples/success_search.json)
+[成功返回样例](./examples/success_search.json)
 
 
 ### 获取趋势的全部定位列表
 
-[Success Response](./examples/success_trending_locations.json)
+[成功返回样例](./examples/success_trending_locations.json)
 
 
 ### 获取指定趋势的详情
 
-[Success Response](./examples/success_trending.json)
+[成功返回样例](./examples/success_trending.json)
 
 
 ## 失败返回样例

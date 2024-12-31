@@ -1,0 +1,6 @@
+{
+  "code": 1001,
+  "credits": 0,
+  "msg": "user_id Input should be a valid integer, unable to parse string as an integer",
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/instagram-public-data-api-0f41"
+}
